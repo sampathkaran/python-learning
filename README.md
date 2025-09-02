@@ -16,3 +16,41 @@
 - List      - Ordered Collection of items, mutable
 - Tuple     - Ordered Collection of items, immutable
 - Dictonary - Key Value pairs, mutable
+
+
+# command line
+
+- Sys module allows you interact with the python 
+
+
+# Creating pacakage 
+
+Folder structure 
+
+hello-world -dir
+  - hello_world - dir
+      - init.py - file
+      - main.py - file
+
+Create a virtual environment
+
+$ conda create -n package-mgmt --python=3.10
+$ conda activate pacakage-mgmt
+
+$ pip install setuptools twine
+
+# create a setup file
+
+run the setup.py file
+
+$ python setup.py sdist
+
+
+# Github Actions
+
+- it is a CI/CD platform
+-  create a worflow
+
+
+# Files of python project
+

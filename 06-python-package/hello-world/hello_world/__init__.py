@@ -1,0 +1,1 @@
+from .main import add # import function directly from package

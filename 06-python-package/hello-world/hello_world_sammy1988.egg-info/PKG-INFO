@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: hello-world-sammy1988
+Version: 0.0.1
+Author: sam
+Author-email: test@gmail.com
+Classifier: Programming Langugage :: Python :: 3
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
